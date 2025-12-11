@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer @ Gutham Technologies | Passionate UI Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asad-ali123&label=Profile%20views&color=0e75b6&style=flat" alt="asad-ali123" />
+  <img src="https://komarev.com/ghpvc/?username=asad-ali123&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-coder" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ---
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=asad-ali123&theme=radical&no-frame=true&row=1&column=6" alt="asad-ali123" />
+<img src="https://github-profile-trophy.vercel.app/?username=asadali-coder&theme=radical&no-frame=true&row=1&column=6" alt="asad-ali123" />
 
 ---
 
@@ -66,8 +66,8 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asad-ali123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=asad-ali123&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=asadali-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=asadali-coder&theme=dark&hide_border=false)
 
 ---
 
