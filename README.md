@@ -10,8 +10,8 @@
 ##👨‍💻 **About Me**
 - 💻**Software Engineer** 
 - 🚀 **Currently working at:** *Gutham Technologies* as an **Frontend Developer**  
-- 🎯 **Building:** *SkillSync* (Connecting Skills to Achievements)  
-- 💡 **Ask me about:** **React, Tailwind CSS, JavaScript, Angular, TypeScript, Redux Toolkit**
+- 🎯 **Building:** *SkillSync* (Connecting Skills to Achievements)
+- 💡 **Ask me about:** **Always ready to share knowledge and insights about tech**
 - 📫 **How to reach me:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)  
 
 - 🎨 **Fun fact:** *I love building UIs that people actually enjoy using!*  
