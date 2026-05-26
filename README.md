@@ -10,7 +10,7 @@
 ##👨‍💻 **About Me**
 - 💻**Software Engineer** 
 - 🚀 **Currently working at:** *Gutham Technologies* as an **Frontend Developer**  
-- 🎯 **Building:** *SkillSync* (Connecting Skills to Achievements)
+- 🎯 **Currently Focused on:** Generative AI and Modern Full Stack Development
 - 💡 **Ask me about:** **Always ready to share knowledge and insights about tech**
 - 📫 **How to reach me:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)  
 
