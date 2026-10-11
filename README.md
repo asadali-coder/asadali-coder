@@ -7,12 +7,14 @@
 
 ---
 
-##👨‍💻 **About Me**
-- 💻**Software Engineer** 
-- 🚀 **Currently working at:** *Gutham Technologies* as an **Frontend Developer**  
-- 🎯 **Currently Focused on:** Generative AI and Modern Full Stack Development
-- 💡 **Ask me about:** **Always ready to share knowledge and insights about tech**
-- 📫 **How to reach me:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)  
+## 👨‍💻 About Me
+
+- 💻 **Software Engineer** | Frontend & Game Developer
+- 🚀 **Currently working at:** Qutham Technologies as a **Frontend & Game Developer**
+- 🛠️ **Tech Stack:** React.js, Next.js, Angular, JavaScript, TypeScript & PixiJS
+- 🎯 **Currently exploring:** Generative AI, AI Integration & Modern Full Stack Development
+- 💡 **Ask me about:** Frontend Development, Interactive UIs, Game Development & JavaScript
+- 📫 **Reach me at:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)
 
 - 🎨 **Fun fact:** *I love building UIs that people actually enjoy using!*  
 
