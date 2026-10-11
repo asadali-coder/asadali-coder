@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
-<h3 align="center">Frontend Developer @ Gutham Technologies | Passionate UI Engineer </h3>
+<h3 align="center">Frontend & Game Developer @ Qutham Technologies | Passionate UI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadali-coder&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-coder" />
