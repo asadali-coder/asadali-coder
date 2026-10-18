@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
-<h3 align="center">Frontend & Game Developer @ Qutham Technologies | Passionate UI Engineer</h3>
+<h3 align="center">💻 Full Stack Developer | 🎮 Game Developer | 🚀 Exploring Generative AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadali-coder&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-coder" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 **Software Engineer** | Frontend & Game Developer
-- 🚀 **Currently working at:** Qutham Technologies as a **Frontend & Game Developer**
-- 🛠️ **Tech Stack:** React.js, Next.js, Angular, JavaScript, TypeScript & PixiJS
-- 🎯 **Currently exploring:** Generative AI, AI Integration & Modern Full Stack Development
-- 💡 **Ask me about:** Frontend Development, Interactive UIs, Game Development & JavaScript
+- 💻 **Software Engineer** | 👨‍💻 **Full-Stack & Game Developer**
+- 🚀 **Previously worked at:** Qutham Technologies as a **Frontend & Game Developer**
+- 🛠️ **Tech Stack:** React.js, Next.js, Angular, TypeScript, JavaScript, Node.js, Express.js, MongoDB & PixiJS
+- 🎯 **Currently exploring:** Generative AI, LLM Integration & AI-Powered Full Stack Applications
+- 🌍 **Open to Work:** Full Stack, Frontend & HTML5 Game Developer roles | Pakistan 🇵🇰 • UAE 🇦🇪 • Saudi Arabia 🇸🇦
 - 📫 **Reach me at:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)
 
 - 🎨 **Fun fact:** *I love building UIs that people actually enjoy using!*  
